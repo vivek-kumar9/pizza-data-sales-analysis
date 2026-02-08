@@ -1,0 +1,4 @@
+Dataset: Pizza Sales Dataset
+Source: Kaggle
+Orders: ~21,000
+Tables: orders, order_details, pizzas, pizza_types
