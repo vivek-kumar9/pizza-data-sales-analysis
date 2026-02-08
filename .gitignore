@@ -1,11 +1,4 @@
----
-
-## .gitignore
-
-```gitignore
+.DS_Store
 *.csv
 *.xlsx
-__pycache__/
-*.pyc
-.env
-.venv
+.ipynb_checkpoints/
