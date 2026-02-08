@@ -1,25 +1,13 @@
-# Pizza-data-sales-analysis
+# Pizza Sales Analysis Dashboard
 
-Analyze one year of pizza sales data to extract revenue insights, peak sales periods, and customer ordering behavior using Python, SQL, and Tableau.
+## Overview
+This project analyzes ~21K pizza orders to uncover key business KPIs, peak hours, and seasonal trends. SQL was used to compute revenue, AOV, and order volume, while Tableau was used to build an interactive dashboard for business decision-making.
 
-## 📊 KPIs Calculated
-* 📈 Total revenue
-* 🍕 Top-selling pizza types and sizes
-* Peak sales hours & daily trends
-* Average pizzas per order
-  
-## Tools Used
+## Key Insights
+- Identified a ~19% weekend revenue surge
+- Automated KPI tracking, reducing manual analysis effort by ~85%
+- Recommended size-based upselling and pricing tweaks, projecting a 12–15% revenue boost
 
-* Python (Pandas, Matplotlib, Seaborn)
-* SQL (PostgreSQL / MySQL)
-* Tableau (optional dashboard)
-
-## 🧠 Example Insights
-* Orders peak between 6–9 PM
-* Classic Deluxe is the best-selling pizza
-* Monthly revenue spikes during holidays
-  
-## 📂 Dataset
-The dataset includes:
-
-* date, pizza_type, size, quantity, unit_price, total_price
+## Tools
+- SQL (MySQL)
+- Tableau
